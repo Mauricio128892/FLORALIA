@@ -1,0 +1,10 @@
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\bin\Debug\INFORMACION_TIENDA.exe.config
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\bin\Debug\INFORMACION_TIENDA.exe
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\bin\Debug\INFORMACION_TIENDA.pdb
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\Modulo Informacion Tienda.csproj.AssemblyReference.cache
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\INFORMACION_TIENDA.Modulo_Informacion_Tienda.resources
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\INFORMACION_TIENDA.Properties.Resources.resources
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\Modulo Informacion Tienda.csproj.GenerateResource.cache
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\Modulo Informacion Tienda.csproj.CoreCompileInputs.cache
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\INFORMACION_TIENDA.exe
+D:\Descargas\INFORMACION_TIENDA\INFORMACION_TIENDA\obj\Debug\INFORMACION_TIENDA.pdb

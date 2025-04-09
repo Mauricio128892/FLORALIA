@@ -1,0 +1,10 @@
+C:\Users\hered\source\repos\MENU_PRINCIPAL\bin\Debug\MENU_PRINCIPAL.exe.config
+C:\Users\hered\source\repos\MENU_PRINCIPAL\bin\Debug\MENU_PRINCIPAL.exe
+C:\Users\hered\source\repos\MENU_PRINCIPAL\bin\Debug\MENU_PRINCIPAL.pdb
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.csproj.AssemblyReference.cache
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.Form1.resources
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.Properties.Resources.resources
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.csproj.GenerateResource.cache
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.csproj.CoreCompileInputs.cache
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.exe
+C:\Users\hered\source\repos\MENU_PRINCIPAL\obj\Debug\MENU_PRINCIPAL.pdb

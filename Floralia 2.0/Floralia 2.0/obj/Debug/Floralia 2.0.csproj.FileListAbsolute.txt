@@ -1,4 +1,0 @@
-C:\Users\mnval\OneDrive\Documentos\Floralia 2.0\Floralia 2.0\obj\Debug\Floralia 2.0.csproj.AssemblyReference.cache
-C:\Users\mnval\OneDrive\Documentos\Floralia 2.0\Floralia 2.0\obj\Debug\Floralia_2._0.Properties.Resources.resources
-C:\Users\mnval\OneDrive\Documentos\Floralia 2.0\Floralia 2.0\obj\Debug\Floralia 2.0.csproj.GenerateResource.cache
-C:\Users\mnval\OneDrive\Documentos\Floralia 2.0\Floralia 2.0\obj\Debug\Floralia 2.0.csproj.CoreCompileInputs.cache
